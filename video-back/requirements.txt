@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+opencv-python
+openai-whisper
+scikit-learn
+imageio
+imageio-ffmpeg
+python-multipart
+numpy
+matplotlib

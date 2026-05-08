@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+dist/
+.env
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+video-back/temp/
+video-back/outputs/
+video-back/history.json
